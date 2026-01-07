@@ -1,4 +1,4 @@
-# Model-free estimands for Target Trial Emulation.
+# Model-free estimands for Target Trial Emulation
 The current repository contains the .R scripts used for the simulation studies of the project.
 
 The scripts generate and analyse data for setting 1 (see the relative Section of the paper). 
