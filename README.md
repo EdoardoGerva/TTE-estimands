@@ -1,4 +1,6 @@
 # Model-free estimands for Target Trial Emulation
+Gervasoni, E.E., De Bus, L., Vansteelandt, S., Dukes, O. "On Estimands in Target Trial Emulation" ([Pre-Print](https://arxiv.org/abs/2601.03377)).
+
 The current repository contains the .R scripts used for the simulation studies of the project.
 
 The scripts generate and analyse data for setting 1 (see the relative Section of the paper). 
